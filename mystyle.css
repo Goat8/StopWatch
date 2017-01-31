@@ -1,0 +1,20 @@
+﻿body {
+    
+}
+
+p {
+
+ background-color: yellow;
+ color: red;
+
+}
+input{
+    outline:hidden;
+    color:brown;
+ 
+}
+.mycssclass {
+        border:none;
+
+}
+
